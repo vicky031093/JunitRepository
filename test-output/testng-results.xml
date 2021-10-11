@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72" started-at="2021-10-09T18:11:58Z" finished-at="2021-10-09T18:11:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72" started-at="2021-10-09T18:11:58Z" finished-at="2021-10-09T18:11:58Z">
+      <class name="org.testng.xml.ClassA">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testng.xml.ClassA@68c4039c]" name="tc1" duration-ms="16" started-at="2021-10-09T18:11:58Z" finished-at="2021-10-09T18:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testng.xml.ClassA@68c4039c]" name="tc2" duration-ms="0" started-at="2021-10-09T18:11:58Z" finished-at="2021-10-09T18:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.testng.xml.ClassA -->
+      <class name="org.testng.xml.ClasB">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testng.xml.ClasB@ae45eb6]" name="tc1" duration-ms="0" started-at="2021-10-09T18:11:58Z" finished-at="2021-10-09T18:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testng.xml.ClasB@ae45eb6]" name="tc2" duration-ms="0" started-at="2021-10-09T18:11:58Z" finished-at="2021-10-09T18:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.testng.xml.ClasB -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
